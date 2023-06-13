@@ -1,4 +1,4 @@
-//this is constructor's solution 
+//this is instructor's solution 
 class Hotel {
     //attributes
     address='';
